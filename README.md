@@ -1,5 +1,5 @@
 # BrindisBox
-Página web de un emprendimiento de expendoras de licor 24/7 en Bogotá. Proyecto final, Electiva de IA.
+Página web de un emprendimiento de expendedoras de licor 24/7 en Bogotá. Proyecto final, Electiva de IA.
 
 **Equipo:** Samuel David Montoya Díaz · María Alejandra Méndez Perdomo
 
